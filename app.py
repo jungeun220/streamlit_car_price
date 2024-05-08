@@ -3,10 +3,9 @@ from home import run_home
 from eda import run_eda
 from ml import run_ml
 
-st.set_page_config(layout="wide")
 
 def main() :
-    st.title('자동차 구매 금액 예측 앱!!')
+    st.title('자동차 구매 금액 예측 앱!!!!!!')
 
     menu = ['Home', 'EDA', 'ML']
 

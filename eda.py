@@ -3,6 +3,7 @@ import pandas as pd
 import seaborn as sb
 import matplotlib.pyplot as plt
 
+
 def run_eda() :
     st.subheader('탐색적 데이터 분석')
 
